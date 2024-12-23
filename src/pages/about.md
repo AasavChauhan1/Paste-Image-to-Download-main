@@ -17,4 +17,4 @@ Instead of going to MS Paint, pasting the image, choosing a location and saving 
 The pasted images are processed and downloaded locally in your device. \
 No data is ever sent.
 
-*This is an open source project, check out the [source code](https://github.com/AlejandroAkbal/Paste-Image-to-Download).*
+*This is an open source project, check out the [source code](https://github.com/AasavChauhan1/Paste-Image-to-Download-main).*
