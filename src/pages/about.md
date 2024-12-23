@@ -7,7 +7,7 @@ title: "About"
     <h3>About</h3>
 </div>
 
-[Paste Image to Download](/) is a utility website made by [Alejandro Akbal](https://akbal.dev)
+[Paste Image to Download](/) is a utility website made by [Aasav Chauhan](https://github.com/AasavChauhan1)
 for downloading images in your clipboard.
 
 This tool was made for those moments where you take a screenshot and it is directly copied to the clipboard. \
