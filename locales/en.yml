@@ -1,0 +1,18 @@
+app:
+  title: "Paste Image to Download"
+  description: "Paste any image in your clipboard to download. Privacy friendly."
+
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+
+not-found: Not found
+
+index:
+  title: Paste image to download
+  subtitle: You can also click me
+  body: Use the {keyCombination} key combination to paste an image from your clipboard.
